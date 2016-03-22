@@ -1,3 +1,4 @@
+// test project
 var express = require("express"),
     nano = require('nano')('http://localhost:5984'),
     app = express();
